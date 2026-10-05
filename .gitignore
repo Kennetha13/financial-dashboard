@@ -1,0 +1,15 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Secrets and local data
+.env
+*.db
+
+# Node / Next.js
+node_modules/
+.next/
+
+# macOS
+.DS_Store
